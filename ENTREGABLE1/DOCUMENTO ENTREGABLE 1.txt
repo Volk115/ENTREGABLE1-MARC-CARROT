@@ -1,0 +1,6 @@
+
+Los dos Prefabs tienen los objetos colocados uno encima del otro.
+
+En las "Sphere (1)" están aplicadas las texturas con transparencia
+En los "Cube" están aplicadas las texturas. En el caso del Enemy, se le ha cambiado el color a la textura
+En las "Capsule" están aplicadas las texturas con color. La textura de color varia según el Player y el Enemy
